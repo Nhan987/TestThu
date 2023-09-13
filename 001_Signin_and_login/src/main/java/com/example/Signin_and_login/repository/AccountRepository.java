@@ -7,5 +7,6 @@ import org.springframework.data.jpa.repository.Query;
 
 public interface AccountRepository extends JpaRepository<Account,Long> {
 
-    @Query()
+    //nhandaptrai
+    
 }
